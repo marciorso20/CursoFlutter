@@ -1,6 +1,6 @@
 # exercicio01
 
-A new Flutter project.
+Primeiro exercício da aula de Flutter para montar o layout.
 
 ## Getting Started
 
