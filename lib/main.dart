@@ -11,7 +11,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Column(
         children: [
-          Card(),
           Container(
             color: Colors.white,
             width: 500,
